@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wilson Tunkal</h1>
-<h3 align="center">"Passionate Developer | Building & Learning Every Day"</h3>
+<h3 align="center">"Passionate Developer | Learning Programmings | Building & Learning Every Day"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilson75&label=Profile%20views&color=0e75b6&style=flat" alt="wilson75" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilson75" alt="wilson75" /></a> </p>
 
-- 🔭 I’m currently working on **AI speech bot**
+- 👨‍💻 I'm currently learning **JAVA**
 
 - 💬 Ask me about **React, Figma, Node.js, Canva**
 
-- 📫 How to reach me **wilsontunkal@gmail.com**
+- 📫 How to reach me **tunkalwilson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
